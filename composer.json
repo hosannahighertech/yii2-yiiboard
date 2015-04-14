@@ -3,7 +3,7 @@
   "description": "Forum module for Yii 2.0",
   "minimum-stability": "dev",
   "keywords": ["forum", "bulletin board"],
-  "license": "Apache License 2.0",
+  "license": "Apache-2.0",
   "support": {
         "issues": "https://github.com/hossannahighertech/yii2-yiiboard/issues?state=open",
         "source": "https://github.com/hossannahighertech/yii2-yiiboard"
