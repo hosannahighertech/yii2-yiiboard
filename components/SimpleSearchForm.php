@@ -24,7 +24,7 @@ class SimpleSearchForm extends Widget
             'id'=>'simple-search-form', 
 			'action'=> [$this->options['action']],
 			'enableAjaxValidation'=>false,
-]);  
+        ]);
 
         echo Html::textInput('search', null, ['class'=>'form-control', 'hint'=>YBoard::t('yboard', 'Search')]); 
         echo Html::hiddenInput('type', '0');  

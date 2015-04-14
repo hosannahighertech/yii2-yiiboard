@@ -111,4 +111,3 @@ class DateTimeCalculation {
         return ['days'=>$days, 'hours'=>$hrs];
     }
 }
-?>
