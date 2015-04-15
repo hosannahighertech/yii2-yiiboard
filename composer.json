@@ -5,8 +5,8 @@
   "keywords": ["forum", "bulletin board"],
   "license": "Apache-2.0",
   "support": {
-        "issues": "https://github.com/hossannahighertech/yii2-yiiboard/issues?state=open",
-        "source": "https://github.com/hossannahighertech/yii2-yiiboard"
+        "issues": "https://github.com/hosannahighertech/yii2-yiiboard/issues?state=open",
+        "source": "https://github.com/hosannahighertech/yii2-yiiboard"
   },
   "require": {
     "php": ">=5.4.0",
