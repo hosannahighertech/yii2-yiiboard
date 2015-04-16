@@ -1,12 +1,12 @@
 {
-  "name": "hossannahighertech/yii2-yiiboard",
+  "name": "hosannahighertech/yii2-yiiboard",
   "description": "Forum module for Yii 2.0",
   "minimum-stability": "dev",
   "keywords": ["forum", "bulletin board"],
   "license": "Apache-2.0",
   "support": {
-        "issues": "https://github.com/hossannahighertech/yii2-yiiboard/issues?state=open",
-        "source": "https://github.com/hossannahighertech/yii2-yiiboard"
+        "issues": "https://github.com/hosannahighertech/yii2-yiiboard/issues?state=open",
+        "source": "https://github.com/hosannahighertech/yii2-yiiboard"
   },
   "require": {
     "php": ">=5.4.0",
