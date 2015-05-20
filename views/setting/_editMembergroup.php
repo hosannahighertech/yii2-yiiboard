@@ -3,7 +3,7 @@
 /* @var $model YBoardMembergroup */
 /* @var $form ActiveForm */
 
-use  app\components\picker\ColorPicker;
+use app\modules\yboard\widgets\picker\ColorPicker;
 use yii\web\JsExpression;
 use yii\web\View;
 use yii\helpers\Html;
